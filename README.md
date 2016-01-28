@@ -15,6 +15,12 @@ and at last
 --chuid $USER --exec ${DAEMON} -- ${DAEMON_OPTS} "${LOG_FORMAT}" \
 ```
 
+## Dependencies
+
+- libfile-pid-perl
+- libfile-tail-perl
+
+
 ## TODO:
 - [ ] Create a procedure to do this same thing on varnish 4.x debian with systemd
 
