@@ -18,6 +18,11 @@ my $varnish_log_feed;
 my $error_log;
 my $mi_log;
 
+
+#
+# Edit this to your files
+# 
+
 my $log_dir          = '/var/log/varnish';
 my $apache_sites_dir = '/etc/apache2/sites-enabled';
 my $varnish_log_file = '/var/log/varnish/varnishncsa.log';
