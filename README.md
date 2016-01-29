@@ -20,6 +20,9 @@ and at last
 - libfile-pid-perl
 - libfile-tail-perl
 
+## To run
+
+Open [`varnishlog_multiple.pl`](../master/varnishlog_multiple.pl) and edit the variables to correspond to your log files.
 
 ## TODO:
 - [ ] Create a procedure to do this same thing on varnish 4.x debian with systemd
